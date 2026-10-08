@@ -6525,7 +6525,8 @@ h2 em {
 
   /* WORK PAGE */
   .work-filters-bar {
-    padding: 15px 5vw;
+    top: 65px;
+    padding: 12px 5vw;
   }
 
   .filters-container {
@@ -6881,7 +6882,8 @@ h2 em {
 
   /* INSIGHTS & ARTICLE READER */
   .insights-filters-bar {
-    padding: 15px 5vw;
+    top: 65px;
+    padding: 12px 5vw;
   }
 
   .insights-filters-list {
